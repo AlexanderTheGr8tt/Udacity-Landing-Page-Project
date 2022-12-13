@@ -9,9 +9,7 @@
 */
 
 /* ---- Base Rules ---- */
-html {
-  scroll-behavior: smooth;
-} 
+
 
 body {
   background: rgb(136, 203, 171);
